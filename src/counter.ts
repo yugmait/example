@@ -11,3 +11,5 @@ export function setupCounter(element: HTMLButtonElement) {
 function a(){}
 
 function b() {}
+
+function d() {}
