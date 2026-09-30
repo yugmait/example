@@ -13,3 +13,4 @@ function a(){}
 function b() {}
 
 function d() {}
+function c(){}
